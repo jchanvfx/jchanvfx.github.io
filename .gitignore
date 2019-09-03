@@ -1,0 +1,7 @@
+# python stuff
+*.pyc
+*.idea
+
+# windows/osx stuff
+*.db
+*.DS_Store
