@@ -1,2 +1,2 @@
 # jchanvfx.github.io
-repository for hosting my portfolio website.
+repository for my portfolio website.
