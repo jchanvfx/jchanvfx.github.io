@@ -1,7 +1,6 @@
-# python stuff
-*.pyc
+# Jetbrains IDE
 *.idea
 
-# windows/osx stuff
+# windows/osx
 *.db
 *.DS_Store
