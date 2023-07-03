@@ -1,2 +1,2 @@
 # jchanvfx.github.io
-repository for my portfolio website.
+personal website repo.
